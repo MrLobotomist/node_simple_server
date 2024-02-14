@@ -1,0 +1,12 @@
+{
+  "name": "node_simple_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node server.js"
+  },
+  "keywords": [],
+  "author": "Pavel Smekhov",
+  "license": "ISC"
+}
